@@ -18,5 +18,5 @@
 - Protagonistes: Tots els superherois, MR.Glitch i NEXA
 - Antagonista principal: The DarkShadow
 - Escenari: Tectropolis, el Món Digital i l'Abisme
-- Argument: Una nova amenaça apareix des de l'Abisme. The DarkShadow i el seu exèrcit de monstres de foscor absoluta amenacen de destruir-ho tot, revelant també la seva connexió amb MR.Glitch.
+- Argument: Una nova amenaça apareix des de les profunditats de l'Abisme. The DarkShadow i el seu exèrcit de monstres de foscor absoluta amenacen de destruir-ho tot, revelant també la seva connexió amb MR.Glitch.
 - Capítol relacionat: Capítol 3
