@@ -35,3 +35,14 @@
 - Poder: cazadora y arquera mágica.
 - Origen: semielfa.
 - Función: apoyar al líder, actuando como segunda al mando y exploradora del equipo.
+
+## MR.Glitch
+- Nom: desconocido
+- Poder: desconocido.
+- Origen: desconocido.
+- Función: apoyar a los héroes desde las sombras.
+
+## NEXA
+- Poder: Controlar y conectarse directamente con cualquier tecnología.
+- Origen: Robot creado en secreto por MR.Glitch.
+- Función: Ayudar a MR.Glitch y apoyar tecnológicamente a los héroes.
